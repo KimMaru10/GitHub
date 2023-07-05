@@ -67,12 +67,24 @@
 
 ### Usage 6. 수평선
 방법1. <br>
-
-
+<img width="68" alt="스크린샷 2023-07-05 오후 3 52 50" src="https://github.com/KimMaru10/GitHub/assets/131854855/d3bba7ac-9cac-41d0-ae6f-b61df81f352f"><br>
 방법2.<br>
+<img width="60" alt="스크린샷 2023-07-05 오후 3 52 54" src="https://github.com/KimMaru10/GitHub/assets/131854855/92848072-403c-44af-80e1-90d01f678281">
 
-결과물<br>
-***
+-결과물
+<hr>
+
+### Usage 7. 강조 
+
+<hr>
+-결과물
+*강조하기*
+_강조하기_
+**강조하기**
+__강조하기__
+~~강조하기~~
+
+
 
 
 
