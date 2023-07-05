@@ -10,8 +10,8 @@
 5. Create repository를 클릭하여 저장합니다.
 <img width="1680" alt="스크린샷 2023-07-05 오후 1 27 46" src="https://github.com/KimMaru10/GitHub/assets/131854855/9f91ff83-ec21-430c-9ef4-489ee997809c">
 
-## Step2 Create a Branch 
-Branching(가지치기)는 한 저장소에 대한 서로 다른 버전들을 동시에 관리할 수 있도록 합니다. 
+## Step2 내용 작성하기
+
 
 
 
