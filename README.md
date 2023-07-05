@@ -92,8 +92,17 @@ __강조하기__
 방법2. 공백문자를 두번 문장 끝에 두번 사용<br>
 
 ### Usage 9. 마크다운 용법 그대로 출력
- \ 와 그대로 출력 하고 싶은 태그나 문자를 작성  
+ \ 와 그대로 출력 하고 싶은 태그나 문자를 작성<br>
+<img width="70" alt="스크린샷 2023-07-05 오후 4 11 22" src="https://github.com/KimMaru10/GitHub/assets/131854855/1172c4ce-eaf3-4b2c-bb0c-6293290ea009"><br>
 
+<hr>
+-결과물<br>
+
+ \<br>
+
+### Usage 10. 글자색 변경<br>
+
+<span style="color:red"> 글씨색 변경 </span>
  
 
 
