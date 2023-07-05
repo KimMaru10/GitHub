@@ -100,11 +100,6 @@ __강조하기__
 
  \<br>
 
-### Usage 10. 글자색 변경<br>
-
-<span style="color:red"> 글씨색 변경 </span>
- 
-
 
 
 
